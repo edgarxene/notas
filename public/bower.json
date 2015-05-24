@@ -1,0 +1,14 @@
+{
+  "name": "notas",
+  "version": "0.0.1",
+  "authors": [
+    "Edgar Cruz <edgarxene@gmail.com>"
+  ],
+  "description": "Paquetes del frontend para el proyecto notas",
+  "license": "MIT",
+  "homepage": "notas.dev",
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "bootstrap-material-design": "~0.3.0"
+  }
+}
